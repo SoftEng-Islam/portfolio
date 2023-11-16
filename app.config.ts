@@ -4,7 +4,7 @@ export default defineAppConfig({
 
   socials: {
     twitter: 'SoftEng_Islam',
-    github: 'Atinux/content-wind'
+    github: 'SoftEng-Islam'
   },
 
   nuxtIcon: {
